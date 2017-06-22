@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					EF4979361EFA337000D7E7F8 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 24A3ZNBAJF;
+						DevelopmentTeam = K2Z4Y6R9KX;
 						ProvisioningStyle = Automatic;
 					};
 					EF49794A1EFA337000D7E7F8 = {
@@ -415,7 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 24A3ZNBAJF;
+				DEVELOPMENT_TEAM = K2Z4Y6R9KX;
 				INFOPLIST_FILE = hidekeyboard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = corejc.hidekeyboard;
@@ -428,7 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 24A3ZNBAJF;
+				DEVELOPMENT_TEAM = K2Z4Y6R9KX;
 				INFOPLIST_FILE = hidekeyboard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = corejc.hidekeyboard;
@@ -514,6 +514,7 @@
 				EF4979611EFA337000D7E7F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EF4979621EFA337000D7E7F8 /* Build configuration list for PBXNativeTarget "hidekeyboardTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +523,7 @@
 				EF4979641EFA337000D7E7F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EF4979651EFA337000D7E7F8 /* Build configuration list for PBXNativeTarget "hidekeyboardUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +532,7 @@
 				EF4979671EFA337000D7E7F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
