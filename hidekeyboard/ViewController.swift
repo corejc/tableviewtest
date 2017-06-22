@@ -10,10 +10,7 @@ import UIKit
 import UserNotifications
 
 class ViewController: UIViewController, UITextFieldDelegate {
-
-    var test : String = ""
-    
-    
+ 
    override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
